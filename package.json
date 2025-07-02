@@ -1,0 +1,23 @@
+{
+  "name": "scriptwriter",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Azymack/ScriptWriter#readme",
+  "bugs": {
+    "url": "https://github.com/Azymack/ScriptWriter/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azymack/ScriptWriter.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
